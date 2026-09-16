@@ -65,6 +65,16 @@ pip install -e .
 pip install chromadb streamlit
 ```
 
+4. ایجاد فایل .env
+
+در ویندوز:
+
+copy .env.example .env
+
+در Linux/macOS:
+
+cp .env.example .env
+
 ### 4. تنظیم متغیرهای محیطی
 
 فایل `.env.example` را به `.env` تبدیل کرده و اطلاعات API را وارد کنید.
